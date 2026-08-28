@@ -1,2 +1,2 @@
-# buzz-daro-ios-sdk
-Buzzvil Daro wrapper SDK (BuzzDaro) Swift Package distribution
+# buzz-max-d-ios-sdk
+Buzzvil MaxD wrapper SDK (BuzzMaxD) Swift Package distribution
